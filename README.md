@@ -3,7 +3,7 @@
 # Asım Karabulut
 ### Computer Engineer | Full-Stack & Mobil Developer
 
-I am a fourth-year Computer Engineering student at Konya Technical University. I develop scalable and user-friendly solutions using modern technologies, ranging from mobile applications to complex backend systems.
+I am a graduaute of Computer Engineering student at Konya Technical University. I develop scalable and user-friendly solutions using modern technologies, ranging from mobile applications to complex backend systems.
 
 [My Web site]([https://www.asimkrblt.live](https://myportfoysite.netlify.app/)) • [LinkedIn](https://www.linkedin.com/in/as%C4%B1m-karabulut-6a874b326/) • [E-mail](mailto:asimkarblt@gmail.com)
 
