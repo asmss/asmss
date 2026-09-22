@@ -5,7 +5,10 @@
 
 I am a graduaute of Computer Engineering student at Konya Technical University. I develop scalable and user-friendly solutions using modern technologies, ranging from mobile applications to complex backend systems.
 
-[My Web site](https://myportfoysite.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/as%C4%B1m-karabulut-6a874b326/) • 
+[My Web site](https://myportfoysite.netlify.app/) • 
+<a href="https://www.linkedin.com/in/as%C4%B1m-karabulut-6a874b326/" target="_blank">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36" height="36" alt="LinkedIn"/>
+</a> • 
 <a href="mailto:asimkarblt@gmail.com">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="36" height="36" alt="Email"/>
 </a>
