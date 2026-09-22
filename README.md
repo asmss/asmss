@@ -53,7 +53,6 @@ I am a graduaute of Computer Engineering student at Konya Technical University. 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" style="border-radius: 8px; margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" style="border-radius: 8px; margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask" style="border-radius: 8px; margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi" style="border-radius: 8px; margin: 5px;" />
 </div>
 
 ### Databases
