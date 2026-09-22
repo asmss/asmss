@@ -14,7 +14,7 @@ I am a fourth-year Computer Engineering student at Konya Technical University. I
 ## About me
 
 - **Mobil Development:** High-performance, responsive applications with Flutter and React Native.
-- **Backend:** Scalable microservice architectures with Node.js, Express.js, and Python (Flask)..
+- **Backend:** Scalable microservice architectures with Node.js (Express.js), and Python (Flask)..
 - **Frontend Web:** React offers flexible and modern interfaces using HTML, CSS, and JavaScript..
 - **Artificial Intelligence:** Innovative projects using ResNet34 and Llama 3 (RAG).
 - **Architecture:** Clean code and sustainable software principles..
