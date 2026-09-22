@@ -5,7 +5,9 @@
 
 I am a graduaute of Computer Engineering student at Konya Technical University. I develop scalable and user-friendly solutions using modern technologies, ranging from mobile applications to complex backend systems.
 
-[My Web site](https://myportfoysite.netlify.app/) • 
+<a href="https://myportfoysite.netlify.app/" target="_blank">
+  <img src="https://img.icons8.com/color/48/domain--v1.png" width="36" height="36" alt="Portfolio"/>
+</a> • 
 <a href="https://www.linkedin.com/in/as%C4%B1m-karabulut-6a874b326/" target="_blank">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36" height="36" alt="LinkedIn"/>
 </a> • 
