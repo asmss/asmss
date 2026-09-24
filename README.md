@@ -25,6 +25,7 @@ I am a graduaute of Computer Engineering student at Konya Technical University. 
 
 ### Languages
 <div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/c#-original.svg" height="50" alt="python" style="border-radius: 8px; margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="border-radius: 8px; margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" style="border-radius: 8px; margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart" style="border-radius: 8px; margin: 5px;" />
