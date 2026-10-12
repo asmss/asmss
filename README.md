@@ -70,4 +70,4 @@ I am a graduaute of Computer Engineering student at Konya Technical University. 
 ---
 
 
-**Visit my website for more detailed information.**
+*`#FF5733` Visit my website for more detailed information.*
