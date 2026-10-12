@@ -21,7 +21,7 @@ I am a graduaute of Computer Engineering student at Konya Technical University. 
 
 ---
 
-## 🛠️ Technologys
+##  Technologys
 
 ### Languages
 <div align="left">
